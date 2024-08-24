@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with future assignments.
 - 💬 Ask me about nothing coding related!
 - 📫 How to reach me: WebCourses Inbox, e-mail.
-- 😄 Pronouns: any!
+- 😄 Pronouns: any, I don't care.
 - ⚡ Fun fact: I'm extremely tired.
