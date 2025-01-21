@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on completing my Intro to C Programming course.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on completing my CS1 programming course.
 - 👯 I’m looking to collaborate on future assignments.
 - 🤔 I’m looking for help with future assignments.
 - 💬 Ask me about nothing coding related!
